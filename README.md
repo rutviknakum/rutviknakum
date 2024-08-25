@@ -17,6 +17,9 @@ Worked on real-world projects, enhancing my skills in Flutter development and co
 - **MSc in Information Technology** - Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar, Gujarat
 - **Bachelor of Computer Applications (BCA)** - C.B. Patel Computer College, Surat, Gujarat
 
+## 🌐 Portfolio
+- **Portfolio Website:** [rutviknakum.framer.website](http://rutviknakum.framer.website)
+
 ## 📫 Get in Touch
-- **GitHub:** [github.com/RutvikNakum](https://github.com/RutvikNakum)
 - **LinkedIn:** [linkedin.com/in/RutvikNakum](https://www.linkedin.com/in/RutvikNakum)
+- **Skype:** [Join Skype](https://join.skype.com/invite/wJbX1JjBwxZP)
