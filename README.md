@@ -10,7 +10,7 @@ I'm Rutvik B. Nakum, an MSc in Information Technology student at **Dhirubhai Amb
 - **Areas of Interest:** Android & iOS Development, Object-Oriented Programming, DBMS
 
 ## 💼 Experience
-**Junior Flutter Developer at 28 Infotech (Jun 2022 - Dec 2022)**  
+**Junior Flutter Developer at 28 Infotech **  
 Worked on real-world projects, enhancing my skills in Flutter development and contributing to the development of impactful mobile applications.
 
 ## 🎓 Education
