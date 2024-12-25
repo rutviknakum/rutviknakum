@@ -1,4 +1,4 @@
-# Rutvik Nakum - GitHub Profile
+
 
 ## 👋 About Me
 I'm Rutvik B. Nakum, an MSc in Information Technology student at **Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)**. With a strong passion for mobile Development, I have experience in building applications using Flutter, Dart, and Firebase. My focus areas include Android and iOS Development, Object-Oriented Programming, and Database Management Systems.
