@@ -18,7 +18,7 @@ Worked on real-world projects, enhancing my skills in Flutter development and co
 - **Bachelor of Computer Applications (BCA)** - C.B. Patel Computer College, Surat, Gujarat
 
 ## 🌐 Portfolio
-- **Portfolio Website:** [rutviknakum.framer.website](http://rutviknakum.framer.website)
+- **Portfolio Website:** [rutviknakum.framer.website](https://rutvikbnakum.framer.ai/)
 
 ## 📫 Get in Touch
 - **LinkedIn:** [linkedin.com/in/RutvikNakum](https://www.linkedin.com/in/RutvikNakum)
