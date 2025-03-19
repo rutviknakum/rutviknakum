@@ -1,25 +1,72 @@
+<h1 align="center">Hey there! 👋 I'm Rutvik B. Nakum</h1>
 
+<p align="center">
+  🚀 Passionate Mobile Developer | MSc IT @ DA-IICT  
+</p>
 
-## 👋 About Me
-I'm Rutvik B. Nakum, an MSc in Information Technology student at **Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)**. With a strong passion for mobile Development, I have experience in building applications using Flutter, Dart, and Firebase. My focus areas include Android and iOS Development, Object-Oriented Programming, and Database Management Systems.
+---
 
+## 👨‍💻 About Me  
+I'm an MSc in Information Technology student at **Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)**, passionate about building scalable and user-friendly mobile applications.  
 
-## 🛠 Skills & Technologies
-- **Programming Languages:** C, C++, Java, Dart, Python
-- **Tools & Technologies:** Flutter, Firebase, PostgreSQL, VS Code, GitHub, Android Studio
-- **Areas of Interest:** Android & iOS Development, Object-Oriented Programming, DBMS
+With hands-on experience in **Flutter, Dart, and Firebase**, I focus on **Android & iOS development, Object-Oriented Programming, and Database Management Systems (DBMS)**.  
 
-## 💼 Experience
-**Junior Flutter Developer at 28 Infotech**  
-Worked on real-world projects, enhancing my skills in Flutter development and contributing to the development of impactful mobile applications.
+💡 I love turning ideas into real-world applications and constantly exploring new technologies to enhance my skill set.  
 
-## 🎓 Education
-- **MSc in Information Technology** - Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar, Gujarat
-- **Bachelor of Computer Applications (BCA)** - C.B. Patel Computer College, Surat, Gujarat
+---
 
-## 🌐 Portfolio
-- **Portfolio Website:** [rutviknakum.framer.website](https://rutvikbnakum.framer.ai/)
+## 🔧 Tech Stack  
+🖥 **Languages:**  
+`C` `C++` `Java` `Dart` `Python`  
 
-## 📫 Get in Touch
-- **LinkedIn:** [linkedin.com/in/RutvikNakum](https://www.linkedin.com/in/RutvikNakum)
-- **Skype:** [Join Skype](https://join.skype.com/invite/wJbX1JjBwxZP)
+🚀 **Frameworks & Tools:**  
+`Flutter` `Firebase` `PostgreSQL` `Git & GitHub` `VS Code` `Android Studio`  
+
+📌 **Areas of Interest:**  
+`Mobile App Development` `Object-Oriented Programming` `Database Management`  
+
+---
+
+## 💼 Experience  
+### 👨‍💻 **Flutter Developer @ Uminber** *(Jan 16 - Present)*  
+- Developing and maintaining high-quality Flutter applications.  
+- Enhancing UI/UX to improve user experience.  
+- Collaborating with teams for seamless API integration.  
+
+### 👨‍💻 **Junior Flutter Developer @ 28 Infotech**  
+- Built and enhanced mobile applications using Flutter & Firebase.  
+- Collaborated with teams to develop and deploy scalable solutions.  
+- Focused on UI/UX improvements and performance optimizations.  
+
+### 🎓 **Assistant Professor @ JG University** *( March 01 - Present)*
+- Teaching and mentoring students in mobile app development.  
+- Guiding projects and research in Flutter & cross-platform technologies.  
+- Conducting workshops and hands-on sessions on industry-relevant tools.  
+
+---
+
+## 🎓 Education  
+🎓 **MSc in Information Technology** - DA-IICT, Gandhinagar, Gujarat  
+🎓 **BCA (Bachelor of Computer Applications)** - C.B. Patel Computer College, Surat, Gujarat  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>  
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/RutvikNakum)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome)](https://rutvikbnakum.framer.ai/)  
+[![Skype](https://img.shields.io/badge/Skype-Connect-blue?style=for-the-badge&logo=skype)](https://join.skype.com/invite/wJbX1JjBwxZP)  
+
+---
+
+🔥 **Let's build something amazing together!** 🚀  
