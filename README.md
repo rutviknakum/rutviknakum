@@ -40,17 +40,6 @@ I specialize in **Android & iOS development**, crafting **high-performance Flutt
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutviknakum&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rutviknakum&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutviknakum&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>  
-
----
-
 ## 🎓 Education  
 🎓 **MSc in Information Technology** - DA-IICT, Gandhinagar, Gujarat  
 🎓 **BCA (Bachelor of Computer Applications)** - C.B. Patel Computer College, Surat, Gujarat  
@@ -61,10 +50,7 @@ I specialize in **Android & iOS development**, crafting **high-performance Flutt
 <p align="center">
   <a href="https://www.linkedin.com/in/rutvik-b-nakum-376707237/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://rutvikbnakum.framer.ai/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome" alt="Portfolio">
-  </a>
+  
   <a href="https://join.skype.com/invite/wJbX1JjBwxZP">
     <img src="https://img.shields.io/badge/Skype-Connect-blue?style=for-the-badge&logo=skype" alt="Skype">
   </a>
