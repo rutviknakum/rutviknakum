@@ -17,7 +17,7 @@ With hands-on experience in **Flutter, Dart, and Firebase**, I focus on **Androi
 
 ## 🔧 Tech Stack  
 🖥 **Languages:**  
-`C` `C++` `Java` `Dart` `Python`  
+`C` `C++` `Dart` 
 
 🚀 **Frameworks & Tools:**  
 `Flutter` `Firebase` `PostgreSQL` `Git & GitHub` `VS Code` `Android Studio`  
@@ -49,18 +49,6 @@ With hands-on experience in **Flutter, Dart, and Firebase**, I focus on **Androi
 ## 🎓 Education  
 🎓 **MSc in Information Technology** - DA-IICT, Gandhinagar, Gujarat  
 🎓 **BCA (Bachelor of Computer Applications)** - C.B. Patel Computer College, Surat, Gujarat  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutviknakum&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rutviknakum&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutviknakum&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>  
- 
 
 ---
 
