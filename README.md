@@ -23,7 +23,7 @@ I specialize in **Android & iOS development**, crafting **high-performance Flutt
 ---
 
 ## 💼 Experience  
-### 🔹 **Flutter Developer @ Uminber** *(Jan 2025 - Present)*  
+### 🔹 **Flutter Developer @ Uminber** *(Jan 2025 - Apr 2025)*  
 - Developing and maintaining **high-quality mobile applications**.  
 - Implementing **UI/UX enhancements and performance optimizations**.  
 - **Seamless API integration** for better data handling.  
