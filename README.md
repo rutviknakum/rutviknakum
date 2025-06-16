@@ -9,7 +9,7 @@
 ## 🎯 About Me  
 🚀 **Passionate Mobile Developer | Assistant Professor**  
 💡 **Building scalable & user-friendly apps using Flutter & Firebase**  
-🎓 **MSc IT @ DA-IICT | Educator & Mentor @ JG University**
+🎓 **MSc IT @ DA-IICT**
 
 I specialize in **Android & iOS development**, crafting **high-performance Flutter applications**. My expertise spans **Object-Oriented Programming, UI/UX design, and API integration**. Currently, I am a **Flutter Developer at Uminber** and an **Assistant Professor at JG University** .
 
@@ -23,12 +23,12 @@ I specialize in **Android & iOS development**, crafting **high-performance Flutt
 ---
 
 ## 💼 Experience  
-### 🔹 **Flutter Developer @ Uminber** *(Jan 2025 - Apr 2025)*  
+### 🔹 **Flutter Developer @ Uminber** *(Jan 2025 - May 2025)*  
 - Developing and maintaining **high-quality mobile applications**.  
 - Implementing **UI/UX enhancements and performance optimizations**.  
 - **Seamless API integration** for better data handling.  
 
-### 🎓 **Assistant Professor @ JG University** *(March 2025 - Present)*  
+### 🎓 **Assistant Professor @ JG University** *(March 2025 - May 2025)*  
 - Teaching **Flutter & cross-platform development**.  
 - Guiding students in **real-world mobile app projects**.  
 - Conducting **workshops & hands-on coding sessions**.  
