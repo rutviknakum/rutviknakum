@@ -11,8 +11,7 @@
 💡 **Building scalable & user-friendly apps using Flutter & Firebase**  
 🎓 **MSc IT @ DA-IICT**
 
-I specialize in **Android & iOS development**, crafting **high-performance Flutter applications**. My expertise spans **Object-Oriented Programming, UI/UX design, and API integration**. Currently, I am a **Flutter Developer at Uminber** and an **Assistant Professor at JG University** .
-
+I specialize in **Android & iOS development**, crafting **high-performance Flutter applications**. My expertise spans **Object-Oriented Programming, UI/UX design, and API integration**. 
 ---
 
 ## 🛠 Tech Stack  
