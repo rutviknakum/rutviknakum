@@ -27,10 +27,6 @@ I specialize in **Android & iOS development**, crafting **high-performance Flutt
 - Implementing **UI/UX enhancements and performance optimizations**.  
 - **Seamless API integration** for better data handling.  
 
-### 🎓 **Assistant Professor @ JG University** *(March 2025 - May 2025)*  
-- Teaching **Flutter & cross-platform development**.  
-- Guiding students in **real-world mobile app projects**.  
-- Conducting **workshops & hands-on coding sessions**.  
 
 ### 🔹 **Junior Flutter Developer @ 28 Infotech** *(Jun 2022 - Dec 2022)*  
 - Built **scalable and efficient** mobile applications using Flutter.  
